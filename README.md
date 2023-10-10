@@ -1,4 +1,4 @@
-# Python NUMWORKS Calculator
+# Python Script NUMWORKS Calculator
 
 You can find here some python script to make mathematical formulas.
 
