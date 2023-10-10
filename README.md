@@ -1,6 +1,6 @@
 # Python NUMWORKS Calculator
 
-You can find here a python script to make mathematical formulas.
+You can find here some python script to make mathematical formulas.
 
 If you want a new script. Please create an issue with label "suggestion".
 
