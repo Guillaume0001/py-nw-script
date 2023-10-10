@@ -1,2 +1,3 @@
-# py-nw-script
-Python Script for NumWorks calculator
+# Python NUMWORKS Calculator
+
+You can find here a python script to make mathematical formulas.
